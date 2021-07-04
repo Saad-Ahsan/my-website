@@ -1,0 +1,17 @@
+body{font-family: 'Yomogi', cursive;}
+h1{font-size: 50px;}
+#cool{color: orange;}
+#hot{font-size:30px ;}
+.nai{font-size:20px ;}
+section{display: flex;}
+.half-width{width: 50%;
+padding-left: 5%;
+text-align: left;}
+.half-width img{width: 80%;}
+.link{
+    background-color: tomato;
+    padding:10px 40px;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+    }
